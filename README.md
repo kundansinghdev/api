@@ -2,7 +2,7 @@
 
 ## **1. Introduction**
 
-This is the **COMPLETE** API Reference for the ELogistics Tendering Platform.
+ **COMPLETE** API Reference for the ELogistics Tendering Platform.
 **Base URL**: `http://localhost:9090/api/v1`
 **Content-Type**: `application/json`
 
